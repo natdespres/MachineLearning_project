@@ -1,0 +1,8 @@
+mcg continuous 0,1
+gvh continuous 0,1
+lip continuous 0,1
+chg continuous 0,1
+aac continuous 0,1
+alm1 continuous 0,1
+alm2 continuous 0,1
+output discrete cp,im,imS,imL,imU,om,omL,pp

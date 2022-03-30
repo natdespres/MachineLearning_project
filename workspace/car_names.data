@@ -1,0 +1,7 @@
+buying discrete vhigh,high,med,low
+maint discrete vhigh,high,med,low
+doors discrete 2,3,4,5more
+persons discrete 2,4,more
+lug_boot discrete small,med,big
+safety discrete low,med,high
+output discrete unacc,acc,good,vgood
